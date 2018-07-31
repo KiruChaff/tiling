@@ -1,5 +1,5 @@
 # tiling
-Compute a set of L-shaped tiles in 2-to-the-power-n-grid (with one square missing)
+Compute a set of L-shaped tiles in a 2-to-the-power-n-grid (with one square missing)
 
 This is my solution to the MIT-PUZZLE 7;
 reference:
